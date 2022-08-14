@@ -23,3 +23,6 @@ https://www.linkedin.com/skill-assessments/Microsoft%20Azure/report/
 ### Certificates
 1. Scrum-Foundation-Professional-Certificate-SFPC-2021 \
 https://www.credly.com/badges/e4495a83-1789-4a11-b58d-1567ea7d32eb/linked_in_profile
+
+
+![Clint's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariolaclint&show_icons=true&theme=cobalt)
