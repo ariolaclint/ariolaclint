@@ -1,5 +1,5 @@
 ### Website
-https://ariolaclint.github.io
+https://ariolaclint.github.io/ariolaclint
 
 ### LinkedIn
 https://www.linkedin.com/in/clint-ariola
